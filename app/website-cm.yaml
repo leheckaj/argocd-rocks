@@ -19,7 +19,8 @@ data:
       </head>
       <body>
         <div>
-          <h1>ArgoCD Rocks !</h1>
+          <h1>ArgoCD Rocks Really!</h1>
+          <p>Version 2</p>
         </div>
       </body>
     </html>
