@@ -19,6 +19,7 @@ data:
       </head>
       <body>
         <div>
+          <img height="400px" src="https://landscape.cncf.io/logos/ba71fd50cbc06c7bad3554de23cbca4298593141df3842003a94065c209610f4.svg"></svg>
           <h1>ArgoCD Rocks Really!v3</h1>
           <p>Version 3</p>
         </div>
